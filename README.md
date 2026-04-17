@@ -223,6 +223,4 @@ All implementations handle:
 
 ---
 
-## License
 
-This project was created for educational purposes.
