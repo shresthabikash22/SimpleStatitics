@@ -98,7 +98,7 @@ Python 3.7 or higher is required. No third-party packages are needed — only th
 
 ## Build & Run
 
-Each language has its own subfolder with its own Makefile. `cd` into the folder first, then use `make`.
+Each language has its own subfolder with a Makefile. `cd` into the folder first, then run `make`.
 
 ---
 
